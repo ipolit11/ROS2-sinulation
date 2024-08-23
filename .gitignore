@@ -1,0 +1,10 @@
+build/
+devel/
+install/
+log/
+.vscode/
+.catkin_tools/
+*.db
+.catkin_workspace
+output_videos/
+output_data/
